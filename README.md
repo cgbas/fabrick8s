@@ -2,7 +2,7 @@
 
 Meus estudos baseados em A hitchhikers guide to deploying Hyperledger Fabric on kubernetes 
 
-Talk no TDC: https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2018POA/blockchain/DKH-6936_2018-12-12T062113_hfl_kubernetes_TDC.pdf[^1]
+Talk no TDC: https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2018POA/blockchain/DKH-6936_2018-12-12T062113_hfl_kubernetes_TDC.pdf
 
 
 
