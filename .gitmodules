@@ -1,0 +1,3 @@
+[submodule "lf-k8s-hlf-webinar"]
+	path = lf-k8s-hlf-webinar
+	url = https://github.com/aidtechnology/lf-k8s-hlf-webinar
